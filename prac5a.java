@@ -4,6 +4,6 @@
 public class prac5a {
 
     public static void main(String[] args) {
-        System.out.println("Hello Juveria");
+        System.out.println("Hello JUmar");
 }
 }
